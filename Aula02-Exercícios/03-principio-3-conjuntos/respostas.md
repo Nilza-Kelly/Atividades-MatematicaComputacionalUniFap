@@ -16,8 +16,11 @@ simultaneamente?
 Substituindo os valores:
 
 2092 = 1232 + 879 + 114 - 103 - 23 - 14 + x
+
 2092 = 2085 + x
+
 x = 2092 - 2085
+
 x = 7
 
 **Resposta:**
