@@ -9,18 +9,18 @@ B = {20, 30, 40, 50} (Matriculados na disciplina de PI)
 C = {10, 20} (Alunos que já entregaram a documentação)
 
 Com base nesses dados, determine os elementos resultantes das seguintes operações:
-## 1 A ∪ B (Alunos cadastrados no sistema geral)
+## 1- A ∪ B (Alunos cadastrados no sistema geral)
 **Resposta:**
  {10, 15, 20, 25, 30, 40, 50}
  
-## 2 A ∩ B (Alunos do curso cursando a disciplina de PI)
+## 2- A ∩ B (Alunos do curso cursando a disciplina de PI)
 **Resposta:**
  {20, 30}
  
-## 3 A \ B (Alunos do curso que não estão cursando PI)
+## 3- A \ B (Alunos do curso que não estão cursando PI)
 **Resposta:**
  {10, 15, 25}
 
-## 4 (A ∪ B) \ C (Alunos que possuem pendência na documentação)=
+## 4- (A ∪ B) \ C (Alunos que possuem pendência na documentação)=
 **Resposta:**
  {15, 25, 30, 40, 50}
