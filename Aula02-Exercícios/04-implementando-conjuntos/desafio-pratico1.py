@@ -1,3 +1,16 @@
+""" 
+    O Desafio
+    Embora o Python possua a estrutura nativa set, seu objetivo aqui é construir uma classe do
+    zero que simule o comportamento de um conjunto matemático utilizando apenas listas básicas
+    (list).
+    Requisitos da Classe MeuConjunto:
+    1- O método construtor (__init__) deve receber uma lista de valores e remover qualquer
+    elemento duplicado para garantir a propriedade de unicidade.
+    2- Implementar um método uniao(outro_conjunto), que retorna um novo objeto do tipo
+    MeuConjunto combinando os dados.
+    3- Implementar um método intersecao(outro_conjunto), retornando apenas os
+    elementos comuns.
+"""
 class MeuConjunto :
     def __init__ ( self , elementos ) :
         self . dados = []
