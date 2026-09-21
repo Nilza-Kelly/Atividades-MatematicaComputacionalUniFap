@@ -78,9 +78,9 @@ y - y1 = m(x-x1)
 
 y - 2 = $\sqrt{3}$ (x - 1)
 
-y - 2 = $\sqrt{3x}$ - $\sqrt{3}$
+y - 2 = $\sqrt{3}$x - $\sqrt{3}$
 
-y = $\sqrt{3x}$ - $\sqrt{3}$ + 2
+y = $\sqrt{3}$x - $\sqrt{3}$ + 2
 
 ## Enunciado
 Questão 4. Determine a equação da reta perpendicular à reta f(x) = 3x − 8 e passando pelo ponto P (0, 0).
@@ -226,7 +226,7 @@ f(x) = 3x² + 6x + 11
 Questão 9. Simplifique a expressão exponencial 5³ · 5².
 
 **Resposta:**
-5^3 . 5^2 = 5^3 + 2
+5^3 . 5^2 = 5^3+2
 
 5^5 = 3125
 
@@ -258,7 +258,7 @@ Questão 11. Determine o valor de x na equação exponencial 8^2x−1 = 0.25
 
 3(x2-1) = -2
 
-6x - 2 = -2
+6x - 3 = -2
 
 6x = 1
 
@@ -347,7 +347,7 @@ log15 = 1 - a + b
 Questão 16. Resolva para x na equação envolvendo potências e logaritmos: 2^3x−2 = 3^2x+1.
 
 **Resposta:**
-log(23^x−2) = log(32^x+1)
+log(2^3x−2) = log(3^2x+1)
 
 log(a^b) = b log(a)
 
@@ -361,7 +361,7 @@ x (3 log 2 − 2 log 3) = 2 log 2 + log 3
 
 x = 2 log 2 + log 3 / 3 log 2 - 2 log 3
 
-x ≈ -2,89
+x ≈ -21,10
 
 ## Enunciado
 Questão 17. Determine o domínio e as raízes matemáticas da função logarítmica f (x) = log<sub>2</sub>(x − 1).
@@ -401,7 +401,7 @@ x³ - 3x² + 3x - 1 = x³ − x² + x − 3
 
 -2x² + 2x + 2 = 0
 
-x² + x + 1 = 0
+x² + x - 1 = 0
 
 x = 1 +- $\sqrt{5}$ / 2
 
