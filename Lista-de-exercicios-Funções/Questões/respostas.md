@@ -329,7 +329,19 @@ x = -3/2
 Questão 15. Dado que a = log(2) e b = log(3), expresse o valor de log(15) em função das variáveis a e b.
 
 **Resposta:**
+log(15) = log(3) + log(5)
 
+log(15) = b + log5
+
+log5?
+
+log5 = log10 − log2
+
+log5 = 1 - a
+
+log15 = b + (1−a)
+
+log15 = 1 - a + b
 
 ## Enunciado
 Questão 16. Resolva para x na equação envolvendo potências e logaritmos: 2^3x−2 = 3^2x+1.
@@ -377,7 +389,27 @@ x = 2
 Questão 18. Resolva a equação logarítmica com variável em base: log<sub>x-1</sub>(x³ − x² + x − 3) = 3.
 
 **Resposta:**
+loga<sub>a</sub> b = c
 
+(x−1)³ = x³ − x² + x − 3
+
+(x−1)³ = x³ − 3x² + 3x − 1
+
+x³ - 3x² + 3x - 1 = x³ − x² + x − 3
+
+-3x² + 3x - 1 = − x² + x − 3
+
+-2x² + 2x + 2 = 0
+
+x² + x + 1 = 0
+
+x = 1 +- $\sqrt{5}$ / 2
+
+x1 = 1 + $\sqrt{5}$ / 2
+
+x2 = 1 - $\sqrt{5}$ / 2
+
+x − 1 > 0 e x − 1 ≠ 1 então x1
 
 ## FUNÇÕES TRIGONOMÉTRICAS
 ## Enunciado
@@ -408,13 +440,39 @@ Questão 20. Converta e expresse a medida escalar de um arco de 5π/6 rad em gra
 Questão 21. Determine as raízes de angulação da equação trigonométrica sin(2x − π) = 0.5.
 
 **Resposta:**
+2x − π = π/6 ​+ 2kπ
 
+2x = π/6 ​+ π + 2kπ
+
+2x = 7π/6 + 2kπ
+
+x = 7π/12 + kπ
+
+Segundo caso:
+
+2x − π = 5π/6 ​+ 2kπ
+
+2x = 5π/6 ​+ π + 2kπ
+
+2x = 11π/6 + 2kπ
+
+x = 11π/12 + kπ
 
 ## Enunciado
-Questão 22. Determine o domínio, a imagem, o período e o fator de amplitude atrelados à função trigonométrica f (x) = sin(3x − π).
+Questão 22. Determine o domínio, a imagem, o período e o fator de amplitude atrelados à função trigonométrica f(x) = sin(3x − π).
 
 **Resposta:**
+Domínio = Existe para qualquer número real
 
+Imagem = −1 ≤ sin x ≤ 1
+
+Período: 
+
+T = 2π/∣B∣​
+
+T = 2π/3
+
+Fator de amplitude = 1
 
 
 
